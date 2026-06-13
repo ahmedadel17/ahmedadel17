@@ -1,5 +1,5 @@
 # 💫 About Me:
- Currently working as a Full Stack Developer, building ERP systems, accounting solutions, and payment integrations.<br><br>🌱 Currently learning more about fintech, payment technologies, system architecture, and scalable cloud applications.<br><br>🚀 Interested in backend development, Laravel, APIs, SoftPOS solutions, and business automation.<br><br>🛠️ Tech Stack:<br>- PHP & Laravel<br>- MySQL<br>- JavaScript<br>- REST APIs<br>- Payment Gateway Integrations<br>- Git & Docker<br>
+ Currently working as a Full Stack Developer, building ERP systems, accounting solutions, and payment integrations.<br><br>🌱 Currently learning more about fintech, payment technologies, system architecture, and scalable cloud applications.<br><br>🚀 Interested in backend development, Laravel, APIs, and business automation.<br><br>🛠️ Tech Stack:<br>- PHP & Laravel<br>- MySQL<br>- JavaScript<br>- REST APIs<br>- Payment Gateway Integrations<br>- Git & Docker<br>
 
 
 ## 🌐 Socials:
